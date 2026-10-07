@@ -1,3 +1,6 @@
 .DS_Store
 ._*
 *.sdr/
+__pycache__/
+*.py[cod]
+.venv/
